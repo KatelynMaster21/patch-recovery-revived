@@ -1,5 +1,5 @@
 name: Patch recovery for fastbootd
-- uses: actions/checkout@v4  # make sure it's the latest patch version   
+
 on:
   workflow_dispatch:
     inputs:
